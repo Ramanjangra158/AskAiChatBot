@@ -17,12 +17,12 @@ This app lets users interact with AI using natural language right from their mob
 
 ## 📷 Screenshots
 
-<!-- Add your app screenshots in the `assets/` folder and update paths accordingly -->
 
-<img src="assets/Screenshot_20250730_003810.png" width="300" />
-<img src="assets/Screenshot_20250730_010518.png" width="300" />
 
----
+<img src="assets/images/Screenshot_20250730_003810.png" width="300" />
+<img src="assets/images/Screenshot_20250730_010518.png" width="300" />
+
+
 
 ## 🛠️ Tech Stack
 
